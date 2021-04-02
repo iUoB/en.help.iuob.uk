@@ -1,19 +1,15 @@
-# 伯明翰大学入学前问题归类
+# Pre-Admissions Questions
 
 
 
-## 联系方式
+## Contacts Questions
 
-请点[此链接](./contacts/)查看
+Click [here](./contacts/) to see more
 
-## 录取相关问题
+## Admissions Questions
 
-请点击[此链接](./admissions/)查看
+Click [here](./admissions/) to see more
 
-## 缴费相关问题
+## Other Questions
 
-请点击[此链接](./pay/)查看
-
-## 其他
-
-请点击[此链接](./others/)查看
+Click [here](./others/) to see more

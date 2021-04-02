@@ -1,23 +1,15 @@
-# 伯明翰大学入学后问题归类
+# Enrolled Questions
 
 
 
-## 联系方式
+## Contacts Questions
 
-请点[此链接](../pre-admissions/contacts/)查看
+Click [here](../pre-admissions/contacts/) to see more
 
-## 账户密码问题
+## Common Solutions
 
-请点[此链接](./password/)查看
+Click [here](./solutions/) to see more
 
-## 软件提供
+## Other Questions
 
-请点[此链接](./software/)查看
-
-## 常用解决方案
-
-请点击[此链接](./solutions/)查看
-
-## 其他
-
-请点击[此链接](./others/)查看
+Click [here](./others/) to see more
