@@ -80,16 +80,16 @@ module.exports = {
         }],
         ['pangu', true],
         ['sitemap', {
-            hostname: 'https://help.iuob.uk'
+            hostname: 'https://en.help.iuob.uk'
         }],
         ['auto-sidebar', true],
         ['fulltext-search', true]
     ],
     themeConfig: {
-        repo: 'iUoB/en.iuob.uk',
+        repo: 'iUoB/en.help.iuob.uk',
         editLinks: true,
         docsDir: 'docs',
-        logo: 'https://cdn.iuob.uk/help/en-GB/iUoB_Logo_RB.png',
+        logo: 'iUoB_Logo_RB.png',
         displayAllHeaders: true,
         activeHeaderLinks: true,
         sidebar: 'auto',
@@ -101,7 +101,7 @@ module.exports = {
                 label: 'British English',
                 selectText: 'Languages',
                 lastUpdated: 'Last Updated',
-                repo: 'iUoB/en.iuob.uk',
+                repo: 'iUoB/en.help.iuob.uk',
                 repoLabel: 'View source code',
                 editLinks: true,
                 editLinkText: 'Edit this page on GitHub',
@@ -205,6 +205,19 @@ module.exports = {
                             {
                                 text: 'Status - iUoB',
                                 link: 'https://status.iuob.uk/'
+                            }
+                        ]
+                    },
+                    {
+                        text: 'Languages',
+                        ariaLabel: 'Languages Menu',
+                        items: [{
+                                text: 'Simplified Chinese',
+                                link: 'https://help.iuob.uk/'
+                            },
+                            {
+                                text: 'British English',
+                                link: 'https://en.help.iuob.uk/'
                             }
                         ]
                     }
