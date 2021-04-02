@@ -2,7 +2,7 @@
 home: true
 heroImage: https://cdn.iuob.uk/help/en-GB/iUoB_Logo_RB.png
 actionText: Read All →
-actionLink: /en-GB/details/
+actionLink: /details/
 features:
   - title: Public Welfare
     details: iUoB is a complete public welfare project.

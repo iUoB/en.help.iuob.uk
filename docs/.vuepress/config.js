@@ -89,7 +89,7 @@ module.exports = {
         repo: 'iUoB/en.iuob.uk',
         editLinks: true,
         docsDir: 'docs',
-        logo: '/iUoB_Logo_RB.png',
+        logo: 'https://cdn.iuob.uk/help/en-GB/iUoB_Logo_RB.png',
         displayAllHeaders: true,
         activeHeaderLinks: true,
         sidebar: 'auto',
