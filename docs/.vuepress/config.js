@@ -217,7 +217,7 @@ module.exports = {
                             },
                             {
                                 text: 'British English',
-                                link: 'https://en.help.iuob.uk/'
+                                link: '/'
                             }
                         ]
                     }
