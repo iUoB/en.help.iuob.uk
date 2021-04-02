@@ -62,7 +62,7 @@ module.exports = {
     },
     plugins: [
         ['@vuepress/google-analytics', {
-            'ga': 'UA-182989275-1'
+            'ga': 'UA-182989275-4'
         }],
         ['@vuepress/back-to-top', true],
         ['@vuepress/last-updated', {
