@@ -24,7 +24,3 @@ Thank you.
 Please select your language:
 - [British English](./)
 - [简体中文](https://help.iuob.uk/)
-
-::: warning
-Help Center is being update, if you want to use Help Center, please visit [help-old.iuob.uk](https://help-old.iuob.uk/). Thank you!
-:::
