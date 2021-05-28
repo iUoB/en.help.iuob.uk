@@ -56,7 +56,7 @@ module.exports = {
     locales: {
         '/': {
             lang: 'en-GB',
-            title: 'Help Center - iUoB',
+            title: 'Help Centre - iUoB',
             description: 'Light up your way to the University of Birmingham',
         }
     },
