@@ -1,9 +1,9 @@
 {
-    "name": "en.help.iuob.uk",
+    "name": "en.iuob.uk",
     "version": "1.0.0",
     "description": "Light up your way to the University of Birmingham.",
     "main": "index.js",
-    "repository": "https://github.com/iUoB/en.help.iuob.uk.git",
+    "repository": "https://github.com/iUoB/en.iuob.uk.git",
     "author": "Harry Yep",
     "license": "MIT",
     "private": false,
