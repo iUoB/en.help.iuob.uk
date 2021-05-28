@@ -14,7 +14,7 @@ footer: MIT Licensed | Copyright © 2020-2021 Harry Yep & iUoB Contributors. All
 If you want to know more about the University of Birmingham, please visit [University of Birmingham official website](https://www.birmingham.ac.uk/)
 
 ::: warning
-The main Help Center is mainly filled in Simplified Chinese, therefore, we can't focus on write other language versions on time. If you want to find more, please use browser translation plugin(s) for real-time translation of Simplified Chinese version. 
+The main Help Centre is mainly filled in Simplified Chinese, therefore, we can't focus on write other language versions on time. If you want to find more, please use browser translation plugin(s) for real-time translation of Simplified Chinese version. 
 
 Go Simplified Chinese version [here](https://help.iuob.uk/).
 
