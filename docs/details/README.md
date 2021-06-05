@@ -29,7 +29,7 @@ Click [here](./iUoB/submit/) to let us know.
 
 
 
-### 其他问题
+### Other Questions
 
 - [Unorganized Questions](./others/unorganized/)
 
