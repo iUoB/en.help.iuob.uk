@@ -8,14 +8,14 @@
     "license": "MIT",
     "private": false,
     "devDependencies": {
-        "@vuepress/plugin-back-to-top": "^1.8.2",
-        "@vuepress/plugin-google-analytics": "^1.8.2",
-        "@vuepress/plugin-medium-zoom": "^1.8.2",
-        "@vuepress/plugin-nprogress": "^1.8.2",
-        "@vuepress/plugin-pwa": "^1.8.2",
-        "vuepress": "^1.8.2",
-        "vuepress-plugin-auto-sidebar": "^2.2.2",
-        "vuepress-plugin-fulltext-search": "^2.1.0"
+        "@vuepress/plugin-back-to-top": "1.8.2",
+        "@vuepress/plugin-google-analytics": "1.8.2",
+        "@vuepress/plugin-medium-zoom": "1.8.2",
+        "@vuepress/plugin-nprogress": "1.8.2",
+        "@vuepress/plugin-pwa": "1.8.2",
+        "vuepress": "1.8.2",
+        "vuepress-plugin-auto-sidebar": "2.2.3",
+        "vuepress-plugin-fulltext-search": "2.2.0"
     },
     "scripts": {
         "dev": "vuepress dev docs",
