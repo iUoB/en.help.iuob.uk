@@ -8024,15 +8024,14 @@ vuepress-plugin-container@^2.0.2:
     "@vuepress/shared-utils" "^1.2.0"
     markdown-it-container "^2.0.0"
 
-vuepress-plugin-fulltext-search@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/vuepress-plugin-fulltext-search/-/vuepress-plugin-fulltext-search-2.2.0.tgz#1eb022864134193ddcc22b6ace9bb6d03319a8e1"
-  integrity sha512-0rM73BIp6BmWto+BfCP3MricyWmEuXgsTLUYGO1cC7sPlauXebJ9HoPCReUWpwli2rMP2LVR+ZCfzxX8OGx/Yg==
+vuepress-plugin-fulltext-search@2.2.1:
+  version "2.2.1"
+  resolved "https://registry.yarnpkg.com/vuepress-plugin-fulltext-search/-/vuepress-plugin-fulltext-search-2.2.1.tgz#f73cddfec3b878aa83b89559e8985be1e1cc50de"
+  integrity sha512-+BOLOdOTvwg7+4z71fmpuZUaHSw+exrw8S9m0kvBUgIVDoe5VS/G3y4hcd+K1hukbkxE/ec10Ikk8hc/3zf2VQ==
   dependencies:
     flexsearch "^0.6.32"
     html-to-text "^7.0.0"
     lodash "^4.17.19"
-    vuepress "^1.4.0"
 
 vuepress-plugin-pangu@^1.0.1:
   version "1.0.1"
@@ -8060,7 +8059,7 @@ vuepress-theme-default-prefers-color-scheme@^2.0.0:
   resolved "https://registry.yarnpkg.com/vuepress-theme-default-prefers-color-scheme/-/vuepress-theme-default-prefers-color-scheme-2.0.0.tgz#c5d305b1b4d10d0915b4bb413e554966d5171b25"
   integrity sha512-4sA3DCiaIIHVjcIC5+mF00mf29IU27KSH97Ga4xb4nUwwlC6eYHg2qchEVOgV25XogCtGgpZ/DCrTkywxvuBcg==
 
-vuepress@1.8.2, vuepress@^1.4.0:
+vuepress@1.8.2:
   version "1.8.2"
   resolved "https://registry.yarnpkg.com/vuepress/-/vuepress-1.8.2.tgz#97e8bf979630611fc7b621fc4cc35b798ee5e847"
   integrity sha512-BU1lUDwsA3ghf7a9ga4dsf0iTc++Z/l7BR1kUagHWVBHw7HNRgRDfAZBDDQXhllMILVToIxaTifpne9mSi94OA==
